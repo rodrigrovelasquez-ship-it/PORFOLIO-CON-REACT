@@ -23,7 +23,7 @@ export const MainLayout = () => {
             </h1>
             <p className="mt-6 max-w-2xl text-lg text-slate-300">
               Desarrollador enfocado en frontend con React. Aquí puedes ver quién soy, mi formación, habilidades,
-              proyectos y un formulario para ponerte en contacto.
+              proyectos y un formulario para ponerte en contacto. 00000000000000
             </p>
             {/* <div className="mt-8">
               <a

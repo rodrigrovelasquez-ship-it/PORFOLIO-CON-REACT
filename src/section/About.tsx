@@ -1,8 +1,4 @@
-/**
- * Archivo: About.tsx
- * Sirve para: renderizar la sección "Sobre mí" del portfolio.
- * Consejo: trabaja cada sección aislada y luego intégrala en el layout para depurar más rápido.
- */
+/*Sirve para: renderizar la sección de "Sobre mí".*/
 import SectionTitle from "../components/main/SectionTittle";
 
 export default function About() {

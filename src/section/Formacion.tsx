@@ -1,8 +1,4 @@
-/**
- * Archivo: Formacion.tsx
- * Sirve para: mostrar la sección de formación/estudios.
- * Consejo: usa listas de datos (array) para pintar estudios y evitar repetir JSX manualmente.
- */
+
 const formacionData = [
   {
     id: 1,

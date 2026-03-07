@@ -17,7 +17,7 @@ export const MainLayout = () => {
         <Header />
         <main>
           <section id="inicio" className="mx-auto flex min-h-[85vh] w-full max-w-6xl flex-col justify-center px-6 py-16">
-            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.20em] text-indigo-400">Portfolio</p>
+            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.20em] text-indigo-400">Portafolio</p>
             <h1 className="max-w-3xl text-4xl font-bold leading-tight sm:text-5xl">
               Hola, soy Rodrigo y por aqui dejo mis trabajos y habilidades en React y Html 5.
             </h1>

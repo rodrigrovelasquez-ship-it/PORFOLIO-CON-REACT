@@ -1,8 +1,5 @@
-/**
- * Archivo: Proyectos.tsx
- * Sirve para: renderizar la sección de proyectos destacados.
- * Consejo: guarda tus proyectos en JSON/array y recórrelos con map para escalar rápido.
- */
+/*Sirve para: renderizar la sección de proyectos destacados.*/
+
 import SectionTitle from "../components/main/SectionTittle";
 
 export default function Proyectos () {

@@ -1,12 +1,5 @@
-/**
- * Archivo: Qsomos.tsx
- * Sirve para: mostrar la sección "Quiénes somos" del sitio.
- * Consejo: revisa nombres y textos (ortografía/ids) porque ayudan mucho a mantener el proyecto claro.
- */
 
-// SobreMi es = arrow funcion ES6
 const SobreMi = () => {
-  //bloque de la funcion
   return (
     <section id="sobre-mi" className="mx-auto w-full max-w-6xl px-6 py-24">
       <h2 className="text-3xl font-bold">Sobre mí</h2>
